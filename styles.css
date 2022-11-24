@@ -16,7 +16,7 @@ body {
 .container-fluid {
   padding-top: 0;
   width: 100vw;
-  height: 350vh;
+  height: 300vh;
   display: flex;
   justify-content: center;
   
@@ -41,7 +41,7 @@ body {
   width: 100px;
   height: auto;
   position: absolute;
-  top: 245vh;  
+  top: 209vh;  
   left: 50%;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
